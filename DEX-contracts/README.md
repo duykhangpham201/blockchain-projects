@@ -1,4 +1,4 @@
-# Rollswap Smart Contracts
+# DEX Smart Contracts - RollSwap
 
 An attempt at recreating a decentralized exchange such as Uniswap.
 
