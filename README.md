@@ -1,4 +1,4 @@
-# Blockchain = Projects
+# Blockchain Projects
 
 This repo consists of data analyst portfolio project that I haved worked and currently working on. As a data and web3 enthusiast, I hope that these projects demonstrate my skills and understanding of those subjects. So far, my projects have involved using Solidity, Hardhat, JavaScript, TypeScript, React.
 
