@@ -1,4 +1,4 @@
-# Rollswap Frontend
+# DEX Frontend - RollSwap
 
 This is the front-end repo for Rollswap 
 The Solidity Contract can be found [here](https://github.com/duykhangpham201/rollswap-contracts.git)
