@@ -1,4 +1,4 @@
-# Simple Lottery Contracts - RollSwap
+# Simple Lottery Contracts
 
 My first attempt at personal smart contract projects.
 
